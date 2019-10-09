@@ -1,0 +1,5 @@
+下载 git clone url
+提交
+git add .gitignore
+git commit -m "comment"
+git push
