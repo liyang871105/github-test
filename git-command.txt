@@ -3,5 +3,3 @@
 git add .gitignore
 git commit -m "comment"
 git push
-
-这些常用命令
