@@ -1,6 +1,6 @@
 #忽略的工具
-.project
 .idea
+.project
 
 # Compiled class file
 *.class
